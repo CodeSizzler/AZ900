@@ -8,7 +8,7 @@
 <h2>Steps:</h2>
 
 <h2>Create a Policy assignment:</h2>
-<p>1. Launch the Azure Policy service in the Azure portal by clicking All services then, Everything, then type Policy in the search box and select Policy </p>
+<p>1. Launch the Azure Policy service in the Azure portal by clicking All services then, Everything, then type Policy in the search box and select Policy.</p>
 <img src="https://codesizzlergit.blob.core.windows.net/az900-002/1.jpg"/>
 <img src="https://codesizzlergit.blob.core.windows.net/az900-002/2.jpg"/>
 <p>Note: Azure Policy is also accessible under the All services > Management + governance section in the portal.</p>
