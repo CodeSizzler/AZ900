@@ -1,4 +1,4 @@
-<h1>Create a policy assignment with Azure Policy.</h1>
+<h1>Create a policy assignment with Azure Policy</h1>
 <h2>Use Case</h2>
 <p>In this walkthrough task we will locate an Azure Policy to restrict deployment of Azure resources to a particular Datacenter, and then assign that allowed location policy to a subscription. We will then verify that creating an Azure resource, such as a virtual machine, outside of the allowed location is blocked. We will finally remove the allowed location policy assignment, to allow us deploy resources again to any Datacenter location using that same subscription.</p>
 
