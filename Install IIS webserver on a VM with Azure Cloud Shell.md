@@ -1,4 +1,4 @@
-<h1>Install IIS webserver on a VM with Azure Cloud Shell.md</h1>
+<h1>Install IIS webserver on a VM with Azure Cloud Shell</h1>
 <h2>Use Case</h2>
 <p>Students can just read through the tasks and get a feel for how it works or actually step through it like a lab task.</p> 
 <p>Another option could be to complete the walkthrough at the end of the module, and complete all or some of the walkthroughs in the module together at that stage, like an end of module or even end of course lab.</p> 
