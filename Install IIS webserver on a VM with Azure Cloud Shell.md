@@ -48,7 +48,7 @@
 <p>Give the below command to install IIS using Powershell.</p>
 <p>Add-WindowsFeature –Name “Web-Server”</p>
 <img src="https://codesizzlergit.blob.core.windows.net/az900-005/AZ-900 1/Install IIs/08.jpg"/>
-<img src="https://codesizzlergit.blob.core.windows.net/az900-005/AZ-900 1/Install IIs/09.jpg/>
+<img src="https://codesizzlergit.blob.core.windows.net/az900-005/AZ-900 1/Install IIs/09.jpg"/>
 
 	
 	
