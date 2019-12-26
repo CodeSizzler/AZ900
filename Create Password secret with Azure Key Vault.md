@@ -30,7 +30,7 @@
 <p>5. Take note of two values in the key vault.</p>
 <p>•Vault Name: In the example it is akvtest1</p>
 <img src="https://codesizzlergit.blob.core.windows.net/az900-003/8.jpg"/> 
-<p>•DNS name (also sometimes referred to as the Vault URI): In this example it is `https://akvtest1.vault.azure.net/`. Applications that use your vault through its REST API must use this URI.</p> 
+<p>•DNS name (also sometimes referred to as the Vault URI): In this example it is https://akvtest1.vault.azure.net Applications that use your vault through its REST API must use this URI.</p> 
 <img src="https://codesizzlergit.blob.core.windows.net/az900-003/9.jpg"/> 
 <p>Note: Your Azure account is the only one authorized to perform operations on this new vault. Yo can modify this if you wish in the Settings > Access policies section.</p>
 <img src="https://codesizzlergit.blob.core.windows.net/az900-003/10.jpg"/>
