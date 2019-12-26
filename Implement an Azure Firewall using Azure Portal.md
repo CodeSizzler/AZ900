@@ -11,7 +11,7 @@
 <h2>Steps:</h2>
 
 <h2>Create Resource group:</h2>
-<p>1. Sign in to the Azure portal at https://portal.azure.com.</p> 
+<p>1. Sign in to the Azure portal at https://portal.azure.com</p> 
 <p>2. On Azure portal home page, click Resource groups > Add and use the following details and click Review and Create and then Create.</p> 
 <img src="https://codesizzlergit.blob.core.windows.net/az900-004/01.png"/>
 <p>•Subscription: < select your own subscription > </p>
